@@ -11,7 +11,7 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
 <body>
     <div class="recuadro">
         <a href="mailto:tu_correo@ejemplo.com" class="correo-enlace">
-            <img src="https://icons8.com/icon/47751/at-sign" class="correo-logo" />
+            <img src=".\bacala0.github.io\images\pngwing.png" class="correo-logo" />
             
         </a>
     </div>
