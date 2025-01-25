@@ -1,8 +1,0 @@
----
-layout: post
-title:  "this is a example"
-date:   2025-01-28 08:04:18 +0530
-categories: new writeup
----
-
-this a a new post
