@@ -12,7 +12,7 @@
 .site-header {
     /* border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light; */
-    padding: 4em 0 2em 0;
+    padding: 1em 0 2em 0;
     height: 15em;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -33,10 +33,10 @@
     display: block;
     text-align: center;
     background-color: transparent;
-    font-size: 4em;
+    font-size: 6em;
     font-weight: 700;
     letter-spacing: -1px;
-    margin-bottom: 0;
+//    margin-bottom: 0;
     margin-top: 0.625em;
 
     &,
@@ -592,4 +592,26 @@ ul.contact-ul {
     @include media-query($on-palm) {
         font-size: 30px;  
     }
+}
+
+.recuadro {
+    border: 2px solid #ee56ee; /* Color del borde */
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    background-color: #f5f5f5; /* Color de fondo */
+    border-radius: 10px; /* Bordes redondeados */
+}
+.recuadro:hover {
+    background-color: #e8e8e8; /* Cambio de fondo al pasar el ratón */
+}
+.correo-logo {
+    width: 50px;
+    height: 50px;
+}
+.correo-enlace {
+    text-decoration: none;
+    color: #007bff; /* Color del texto */
+    font-size: 1.2em;
 }
