@@ -381,7 +381,7 @@ a.post-link:hover{color: $color-1}
 }
 
 .border {
-    border: 1px solid #eee;
+    border: 1px solid #eeeeee;
 }
 
 .text-center{
@@ -596,10 +596,12 @@ ul.contact-ul {
 
 .recuadro {
     border: 2px solid #ee56ee; /* Color del borde */
-    padding: 20px;
+    padding: 2px;
     text-align: center;
-    width: 200px;
-    margin: 0 auto;
+    width: 100px;
+    height: 70px;
+    margin: 0;
+    margin-left: 30px;
     background-color: #f5f5f5; /* Color de fondo */
     border-radius: 10px; /* Bordes redondeados */
 }
@@ -609,9 +611,43 @@ ul.contact-ul {
 .correo-logo {
     width: 50px;
     height: 50px;
+    
 }
 .correo-enlace {
     text-decoration: none;
     color: #007bff; /* Color del texto */
     font-size: 1.2em;
+}
+
+.contenedor-botones{
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    gap: 1px; /* Espacio entre el texto y el botón */
+}
+.rabbit-button {
+    display: flex;
+    align-items: center;
+    background-color: #f3f3f300;
+    color: white;
+    padding: 5px 2px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.rabbit-button svg {
+    margin-left: 10px;
+    width: 24px;
+    height: 24px;
+}
+.rabbit-button:hover {
+    background-color: #9545a0;
+}
+.texto{
+    margin-top: 10px;
 }

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de mi
+permalink: /About/
 ---
 
 This is a sample about page.
