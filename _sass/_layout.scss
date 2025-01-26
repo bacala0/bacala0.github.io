@@ -13,12 +13,12 @@
     /* border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light; */
     padding: 1em 0 2em 0;
-    height: 13em;
+    height: 12.3em;
     // Positioning context for the mobile navigation icon
     position: relative;
 
     background: $color-1; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, $color-1, $color-2); /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, $color-1, $color-2); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(120deg, $color-1 , $color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     @include media-query($on-palm) {
@@ -235,8 +235,8 @@
             line-height: 1;
         }
 }
-a.post-link{color: #555}
-a.post-link:hover{color: $color-1}
+a.post-link{color: #9738af}
+a.post-link:hover{color: #fee6ff}
 .post-meta {
     font-size: $small-font-size;
     display: inline-block;
@@ -334,8 +334,15 @@ a.post-link:hover{color: $color-1}
             font-size: $base-font-size * 0.6;
         }
     }
-    
-    
+    .image-float{
+        float: right; 
+        margin-right: 10px; 
+        margin-bottom: 5px; 
+        width: 300px;
+    }
+    .clear-float{
+        clear: both;
+    }    
     
 }
 
@@ -582,7 +589,7 @@ ul.contact-ul {
 //contact form in contact page end
 .logo-text {
     font-size: 75px; 
-    font-weight:600; 
+    font-weight:700; 
     letter-spacing:2px; 
     color: #fff; 
     text-transform: uppercase;
@@ -601,9 +608,10 @@ ul.contact-ul {
     width: 100px;
     height: 70px;
     margin: 0;
-    margin-left: 30px;
+    margin: 0 15px;
     background-color: #f5f5f5; /* Color de fondo */
     border-radius: 10px; /* Bordes redondeados */
+    gap: 5px;
 }
 .recuadro:hover {
     background-color: #e8e8e8; /* Cambio de fondo al pasar el ratón */
@@ -650,4 +658,24 @@ ul.contact-ul {
 }
 .texto{
     margin-top: 10px;
+}
+
+.sub-titulo{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+@media (max-width:768px) {
+    .sub-titulo{
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+    }
+}
+@media (min-width:2024px) {
+    .sub-titulo{
+        font-size: 1.2rem;
+        margin-top: 1.5rem;
+    }
 }
