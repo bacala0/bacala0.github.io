@@ -89,7 +89,7 @@ li {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $head-font-family;
-    color: #555;
+    color: rgb(225, 143, 241);
     font-weight: bold;
 }
 
@@ -101,12 +101,12 @@ h1{
  * Links
  */
 a {
-    color: $color-2;
+    color: rgb(213, 112, 233);
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+ //   &:visited {
+ //       color: darken($brand-color);
+ //   }
 
     &:hover {
         text-decoration: none;

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-10 08:04:18 +0530
-categories: jekyll update
+title:  "Primer post"
+date:   2025-01-26 19:56
+categories: post
 ---
-por que no se logra modificar?
+Hola, este se el primero post de mi blog

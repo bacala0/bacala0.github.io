@@ -20,6 +20,7 @@
     background: $color-1; /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, $color-1, $color-2); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(120deg, $color-1 , $color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to bottom, #8a2be2, #8a2be2 50%, transparent);
 
     @include media-query($on-palm) {
         padding: 2em 0 1em 0;
@@ -235,8 +236,8 @@
             line-height: 1;
         }
 }
-a.post-link{color: #9738af}
-a.post-link:hover{color: #fee6ff}
+a.post-link{color: #feefff}
+a.post-link:hover{color:#9738af}
 .post-meta {
     font-size: $small-font-size;
     display: inline-block;
@@ -609,7 +610,7 @@ ul.contact-ul {
     height: 70px;
     margin: 0;
     margin: 0 15px;
-    background-color: #f5f5f5; /* Color de fondo */
+    background-color: rgb(36, 24, 39); /* Color de fondo */
     border-radius: 10px; /* Bordes redondeados */
     gap: 5px;
 }
