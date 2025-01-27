@@ -79,7 +79,7 @@
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
-        background-color: #6a3093;
+        background-color: #8b3093;
         border: 1px solid #6a3093;
         border-radius: 2px;
         text-align: right;
@@ -278,6 +278,7 @@ a.post-link:hover{color:#9738af}
     line-height: 1;
     margin-top: 1em;
     margin-bottom: 0.2em;
+    color: #a044ff;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -615,7 +616,7 @@ ul.contact-ul {
     gap: 5px;
 }
 .recuadro:hover {
-    background-color: #e8e8e8; /* Cambio de fondo al pasar el ratón */
+    background-color: #1108114b; /* Cambio de fondo al pasar el ratón */
 }
 .correo-logo {
     width: 50px;
@@ -666,6 +667,7 @@ ul.contact-ul {
     margin-top: 2rem;
     text-align: center;
     transition: all 0.3s ease;
+    color: rgba(255, 255, 255, 0.315);
 }
 
 @media (max-width:768px) {
