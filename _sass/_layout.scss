@@ -10,17 +10,23 @@
  * Site header
  */
 .site-header {
-    /* border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light; */
+    //border-top: 5px solid $grey-color-dark;
+    //border-bottom: 1px solid $grey-color-light; */
     padding: 1em 0 2em 0;
-    height: 12.3em;
+    height: 10.3em;
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: url(/images/giphy_3c19.gif) no-repeat center center;
+    background-size: auto 130%;
+    background-position: center bottom;
+    overflow: hidden;
+    clip-path: inset(0 0 30px 0);
 
-    background: $color-1; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, $color-1, $color-2); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(120deg, $color-1 , $color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(to bottom, #8a2be2, #8a2be2 50%, transparent);
+    
+//    background: $color-1; /* fallback for old browsers */
+//    background: -webkit-linear-gradient(to right, $color-1, $color-2); /* Chrome 10-25, Safari 5.1-6 */
+//    background: linear-gradient(120deg, $color-1 , $color-2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+//    background: linear-gradient(to bottom, #8a2be2, #8a2be2 50%, transparent);
 
     @include media-query($on-palm) {
         padding: 2em 0 1em 0;
@@ -38,7 +44,7 @@
     font-weight: 700;
     letter-spacing: -1px;
     margin-bottom: -40px;
-    margin-top: 0.625em;
+//    margin-top: 0.625em;
 
     &,
     &:visited {
@@ -55,6 +61,7 @@
 .site-nav {
     display: block;
     line-height: 56px;
+    text-align: center;
 
     .menu-icon {
         display: none;
@@ -276,7 +283,7 @@ a.post-link:hover{color:#9738af}
     font-size: 2.5em;
     letter-spacing: -1px;
     line-height: 1;
-    margin-top: 1em;
+    margin-top: 0em;
     margin-bottom: 0.2em;
     color: #a044ff;
 
@@ -663,8 +670,8 @@ ul.contact-ul {
 }
 
 .sub-titulo{
-    font-size: 1.5rem;
-    margin-top: 2rem;
+//    font-size: 1.5rem;
+//    margin-top: 0.1rem;
     text-align: center;
     transition: all 0.3s ease;
     color: rgba(255, 255, 255, 0.315);
@@ -673,12 +680,7 @@ ul.contact-ul {
 @media (max-width:768px) {
     .sub-titulo{
         font-size: 1.2rem;
-        margin-top: 1.5rem;
+//        margin-top: 1.5rem;
     }
 }
-@media (min-width:2024px) {
-    .sub-titulo{
-        font-size: 1.2rem;
-        margin-top: 1.5rem;
-    }
-}
+

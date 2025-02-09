@@ -8,7 +8,7 @@ Soy un apasionado de la informática y la Cibersec enfocado en Pentesting y RedT
 
 <h3 style="color: rgb(212, 103, 255);">Mi historia</h3>
 
-Desde pequeño sentía mucha curiosidad por desmontar todo lo que tuviera a la mano y ver como funciona, cuando por primera vez pude tener una computadora a mis 20 años, quise saber como funcionaba, como eran posibles las conexiones, las redes, como se veía todo debajo de los gráficos y ventanas convencionales, lo que me llevo a iniciar mi búsqueda por conocer mas, lamentablemente la situación me condujo a vender mi computadora portátil, pero algo había despertado en mi, a menudo veía el blog de https://elhacker.net, noticias, como las personas discutían sobre nuevas vulnerabilidades o consultaban a otros
+Desde pequeño sentía mucha curiosidad por desmontar todo lo que tuviera a la mano y ver como funciona, cuando por primera vez pude tener una computadora a mis 20 años, quise saber como funcionaba, como eran posibles las conexiones, las redes, como se veía todo debajo de los gráficos y ventanas convencionales, lo que me llevo a iniciar mi búsqueda por conocer mas, lamentablemente la situación me condujo a vender mi computadora portátil, pero algo había despertado en mi, a menudo veía el blog de <a href="https://elhacker.net">elhacker.net</a>, noticias, como las personas discutían sobre nuevas vulnerabilidades o consultaban a otros
 
 Tiempo después, pude comprar otra computadora y la curiosidad seguía allí, así que decidí empezar por aprender a programar, aunque realmente me di cuenta que aun no hacia ni lo mas básico (escribir con el teclado).
 
