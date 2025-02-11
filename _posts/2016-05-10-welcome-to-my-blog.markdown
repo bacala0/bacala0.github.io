@@ -13,7 +13,8 @@ empecemos desde lo básico.
 <h3>Que es un *"hacker"*?</h3>
 
 <img src="/images/post1/Pasted image 20250211141832.png" alt="hacker-group" />
-aunque el termino se ha popularizado (para mal) en las ultimas décadas gracias a las redes y el fácil acceso a todo tipo de información o noticias. un hacker no es mas que un apasionado y curioso por la tecnología que crea cosas o técnicas innovadoras, empujan los sistemas y programas hasta sus limites por simple curiosidad.
+
+Aunque el termino se ha popularizado (para mal) en las ultimas décadas gracias a las redes y el fácil acceso a todo tipo de información o noticias. un hacker no es mas que un apasionado y curioso por la tecnología que crea cosas o técnicas innovadoras, empujan los sistemas y programas hasta sus limites por simple curiosidad.
 
 ten en mente que a los 'hackers' malos se les conoce en el entorno de ciberseguridad como crackers 
 
