@@ -34,7 +34,11 @@ Me gusta crear laboratorios en casa y probar metodos de carga de payloads.
  Me encanta tambien participar en CTFs (Capture The Flag) pricipalmente en Hack The Box, donde puedo aprender algo nuevo por cada maquina comprometida.
 <div class="clear-float"></div>
 
-Además, el hardware hacking es un área que me fascina, ya que combina mi interés por la electrónica y la ciberseguridad. Mi objetivo es seguir creciendo en este campo, explorando y si es posible, algun dia contribuir a la comunidad que tanto me ha dado, al fin y al cabo he aprendido gracias a todos los que comparten su conocimiento.
+Además, el hardware hacking es un área que me fascina, ya que combina mi interés por la electrónica y la ciberseguridad.
+
+tambien el desarrollo y análisis de malware, son áreas en las que tambien me gastaría profundizar en un futuro cercano, enfocándome sobre todo en el tipo de malware *living off the land*
+
+Mi objetivo es seguir creciendo en este campo, explorando y si es posible, algun dia contribuir a la comunidad que tanto me ha dado, al fin y al cabo he aprendido gracias a todos los que comparten su conocimiento.
 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes y aprender de los demas!
 <br><br>
