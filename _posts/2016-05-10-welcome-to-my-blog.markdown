@@ -12,14 +12,14 @@ empecemos desde lo básico.
 
 <h3>Que es un *"hacker"*?</h3>
 
-<img src="./Pasted image 20250211141832.png" alt="hacker-group" />
+<img src="/images/post1/Pasted image 20250211141832.png" alt="hacker-group" />
 aunque el termino se ha popularizado (para mal) en las ultimas décadas gracias a las redes y el fácil acceso a todo tipo de información o noticias. un hacker no es mas que un apasionado y curioso por la tecnología que crea cosas o técnicas innovadoras, empujan los sistemas y programas hasta sus limites por simple curiosidad.
 
 ten en mente que a los 'hackers' malos se les conoce en el entorno de ciberseguridad como crackers 
 
 tambien se les conoce como hackers a los padres del software libre, que revolucionaron la industria con sistemas de código abierto al publico. con la posibilidad de que otros entusiastas e ingenieros modifiquen el código y compartan sus creaciones o modificaciones e incluso contribuyan a los propios proyectos raíz
 
-<img src="./stallman.jpg" alt="richard stallman"/>
+<img src="/images/post1/stallman.jpg" alt="richard stallman"/>
 richard stallman creador de GNU y free software fundation
 
 con el tiempo, si es cierto que ha cambiado el mundo de la ciberseguridad y se ha extendido a diferentes áreas de especialización, tantas que a día de hoy se hace imposible que una sola persona abarque toda la superficie que representa, Tambien se debe a los grandes avances tecnológicos y de software que ocurren a diario obligando a los expertos y estudiantes del área a estar en constante aprendizaje.
