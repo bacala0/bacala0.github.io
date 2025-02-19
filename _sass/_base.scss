@@ -145,11 +145,13 @@ blockquote {
  */
 pre,
 code {
+    background: black;
     font-size: 15px;
     border: 1px solid $brand-color;
     border-radius: 3px;
-    background-color: transparent;
-    text-shadow: 0 0 1px #777;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+/**    text-shadow: 0 0 1px #777; **/
 
 }
 
